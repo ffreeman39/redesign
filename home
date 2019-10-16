@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title></title>
+  <title>Fatima Freeman</title>
  </head>
  <body>
+ <container>
+ <h1>Fatima Freeman</h1>
+ <h2>UX/UI Designer & Front-End Developer</h2>
+ <p>This section is </p>
+ </container>
  <footer>
  </footer>
  </body>

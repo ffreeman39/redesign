@@ -3,6 +3,10 @@ Objective
 
 The purpose of this document is to give a detail explanation for the redesign of a digital portfolio for a client that wanted to update the design where it is responsive to to desktops and mobile devices for users to access the digital portfolio on all devices. The clients wants an simpler design for uploading information about the new projects that they have completed for users to view. Utilizing design documentations, mock-ups, wireframes, designs, and prototypes to develop the digital portfolio that is user friendly and accesible for users to access on all devices.
 
+Utilizing Design Documentation
+
+Whether you are working on a redesign or designing with a blank canvas; design documentations are just as important to the project because of the detail information that is included. The information that is included in the design documentation is from the client that you are working with and the design documentations should be shared with the client to ensure clarity. Thwerefore, you and the client should be able to agree with what is documented in the design documentation. I have included samples of the design documentations that I have created from a previous project that I worked on for a redesign of a digital portfolio.
+
 Design Documentations
 
 
@@ -582,8 +586,6 @@ Submitted By: Fatima Freeman
 
 
 
-
-
 Melinda Edwards, Tech Recruiter
 ABC Company
 July 5, 2019
@@ -1029,6 +1031,10 @@ Process	Natalie decides to seek a freelance web designer on LinkedIn, Coroflot, 
 Accessibility	Natalie doesn’t have the time to search through every portfolio but she does want to take the time to search through individual portfolio for web design sample works.	The Instagram account wasn’t hard to search through and the account seem to have a professional appearance with a link to their digital portfolio.	Natalie isn’t very tech savvy but the process was not as difficult as she thought because the Instagram user has made it easy.	With an online booking service, Natalie was able to book for a meeting without having to email and call a number because it was so late at night.
 Experience	Utilizing these online portfolios has been simple and easy.	Utilizing Instagram to search for some sample work of web design and viewing their digital portfolio was simple and not complex.	Absolutely simple. 	Not difficult.
 Improvements	Some portfolios that do have web design sample works don’t give any information about the project.	None.	None.	None.
+
+Clarity
+
+Affter reading the design documentations samples from a previous project that I have worked on for a client that wanted a redesign done for their digital portfolio that their is more clarity about the importance of creating design documentations. Not only is creating any type of design documentations for you but to build clarity with the client. The client needs to know that they are understood before the launch of the final product is created.
 
 
 

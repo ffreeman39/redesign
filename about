@@ -5,9 +5,10 @@
  </head>
  <body>
  <container>
- <h1>Fatima Freeman</h1>
  <h2>Background</h2>
- <section>I am an UX/UI Designer, UX Researcher, and Front-end Developer based in Chicago with a BS in Interactive and Social Media from DePaul University. I utilize my skills to create low to high fidelity mock-ups of websites, e-commerce websites, web applications, and mobile applications that translate to prototypes for usability testing.</section>
+ <section>
+ <p>I am an UX/UI Designer, UX Researcher, and Front-end Developer based in Chicago with a BS in Interactive and Social Media from DePaul University. I utilize my skills to create low to high fidelity mock-ups of websites, e-commerce websites, web applications, and mobile applications that translate to prototypes for usability testing.</p>
+ </section>
  </container>
  <footer>
  <p>Add Footer Here</p>
